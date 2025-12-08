@@ -3,5 +3,8 @@
   "cssTheme": "ITS Theme",
   "baseFontSize": 16,
   "showViewHeader": true,
-  "showRibbon": false
+  "showRibbon": false,
+  "textFontFamily": "Nimbus Sans,CaskaydiaMono Nerd Font Mono,Inter",
+  "interfaceFontFamily": "CaskaydiaMono Nerd Font Mono",
+  "monospaceFontFamily": "CaskaydiaMono Nerd Font Mono"
 }

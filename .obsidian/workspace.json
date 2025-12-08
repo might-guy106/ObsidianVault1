@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Project Ideas.md",
+                "file": "Projects/Details/Mobile Server.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Project Ideas"
+              "title": "Mobile Server"
             }
           },
           {
@@ -213,8 +213,8 @@
   },
   "active": "a34b2d9455fc1f40",
   "lastOpenFiles": [
-    "Projects/Details/Mobile Server.md",
     "Projects/Project Ideas.md",
+    "Projects/Details/Mobile Server.md",
     "Welcome.md",
     "home/pankajlaptop/Documents/Obsidian/personal/Projects/Details/Mobile.md",
     "home/pankajlaptop/Documents/Obsidian/personal/Projects/Details",
