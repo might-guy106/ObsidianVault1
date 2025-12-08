@@ -1,1 +1,7 @@
-{}
+{
+  "theme": "obsidian",
+  "cssTheme": "ITS Theme",
+  "baseFontSize": 16,
+  "showViewHeader": true,
+  "showRibbon": false
+}

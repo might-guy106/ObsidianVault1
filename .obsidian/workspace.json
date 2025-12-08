@@ -13,10 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Details/Mobile Server.md",
+                "file": "Projects/Project Ideas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Project Ideas"
+            }
+          },
+          {
+            "id": "d2bca8d0921b8adf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Details/Mobile Server.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Mobile Server"
@@ -157,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Projects/Project Ideas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Project Ideas"
             }
           },
           {
@@ -177,11 +191,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,15 +207,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "a34b2d9455fc1f40",
   "lastOpenFiles": [
-    "home/pankajlaptop/Documents/Obsidian/personal/Projects/Details/Mobile.md",
     "Projects/Details/Mobile Server.md",
     "Projects/Project Ideas.md",
     "Welcome.md",
+    "home/pankajlaptop/Documents/Obsidian/personal/Projects/Details/Mobile.md",
     "home/pankajlaptop/Documents/Obsidian/personal/Projects/Details",
     "home/pankajlaptop/Documents/Obsidian/personal/Projects",
     "home/pankajlaptop/Documents/Obsidian/personal",
