@@ -11,10 +11,11 @@ i started with varying depth first keeping all other constants.
 the results are similar to what we expected.
 
 Average Query Time as we increase depth
-![[Acads/UGP/assets/none/comparison_query_times.png]]
+![](assets/none/comparison_query_times.png)
+
 
 Average Update Time as we increase depth
-![[Acads/UGP/assets/none/comparison_update_times.png]]
+![](assets/none/comparison_update_times.png)
 
 #### case 1: i used set-networking script
 I used set-networking script to manually set network conditions among the docker containers.
@@ -61,3 +62,4 @@ but when i execute the run-experiment script, the logs showed
 Usable cores: P0=12, P1=12, P2=12
 ```
 My laptop contains 16 cores out of which 12 are usable. all the 3 parties are using these 12 cores. but the papers evaluation pinned each docker container to some specific set of dedicated cores.
+- 

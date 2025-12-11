@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ea9e769088122b19",
+        "id": "070db27705d75151",
         "type": "tabs",
         "children": [
           {
-            "id": "a34b2d9455fc1f40",
+            "id": "146c73823f014f5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -196,25 +196,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "db72b89c3f31c73f",
+  "active": "146c73823f014f5e",
   "lastOpenFiles": [
+    "Acads/UGP/assets/none/comparison_query_times.png",
+    "Acads/UGP/Update.md",
+    "Acads/UGP/Experiments.md",
     "Acads/UGP/assets/Pasted image 20251211105028.png",
     "Acads/UGP/assets/network_study/study_bandwidth_lat5_update.png",
     "Acads/UGP/assets/network_study/study_bandwidth_lat5_query.png",
     "Acads/UGP/assets/network_study/study_latency_bw100_update.png",
     "Acads/UGP/assets/network_study/study_latency_bw100_query.png",
-    "Acads/UGP/Update.md",
     "Acads/UGP/assets/none/comparison_update_times.png",
     "Projects/Details/Mobile Server.md",
     "Acads/UGP/assets/lat30band100/comparison_update_times.png",
     "comparison_query_times.png",
-    "Acads/UGP/Experiments.md",
-    "Acads/UGP/assets/none/comparison_query_times.png",
     "Acads/UGP/assets/none/comparison_side_by_side.png",
     "IITK VPN For Arch linux.md",
     "Acads/UGP/assets/none",
     "Acads/UGP/assets/network_study",
-    "Acads/UGP/assets/lat30band100/comparison_side_by_side.png",
     "Acads/UGP/assets/lat30band100",
     "Acads/UGP/assets",
     "Projects/Project Ideas.md",
