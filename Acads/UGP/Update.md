@@ -57,7 +57,9 @@ Average Update Time as we increase bandwidth
 
 - the iitk server that we have does not access to outside internet (ping google.com does not work) we can only do ssh or scp currently . so i am not able to  run docker which needs internet to pull the base image and libraries.
 - in the prac paper it is
+
 ![](assets/pracText.png)
+
 but when i execute the run-experiment script, the logs showed 
 ```bash
 Usable cores: P0=12, P1=12, P2=12
