@@ -56,7 +56,7 @@ Average Update Time as we increase bandwidth
 ## Roadblocks and Doubts
 
 - the iitk server that we have does not access to outside internet (ping google.com does not work) we can only do ssh or scp currently . so i am not able to  run docker which needs internet to pull the base image and libraries.
-- in the prac paper it is
+- in the prac paper it is written as
 
 ![](assets/pracText.png)
 
