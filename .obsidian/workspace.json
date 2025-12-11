@@ -11,15 +11,12 @@
             "id": "a34b2d9455fc1f40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Projects/Details/Mobile Server.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Acads/UGP/assets/none/comparison_query_times.png"
               },
-              "icon": "lucide-file",
-              "title": "Mobile Server"
+              "icon": "lucide-image",
+              "title": "comparison_query_times"
             }
           },
           {
@@ -213,7 +210,24 @@
   },
   "active": "a34b2d9455fc1f40",
   "lastOpenFiles": [
+    "Acads/UGP/assets/none/comparison_side_by_side.png",
+    "Acads/UGP/assets/none/comparison_update_times.png",
+    "IITK VPN For Arch linux.md",
+    "Acads/UGP/assets/none/comparison_query_times.png",
+    "Acads/UGP/assets/none",
+    "Acads/UGP/assets/network_study/study_latency_bw100_update.png",
+    "Acads/UGP/assets/network_study/study_latency_bw100_query.png",
+    "Acads/UGP/assets/network_study",
+    "Acads/UGP/assets/lat30band100/comparison_update_times.png",
+    "Acads/UGP/assets/lat30band100/comparison_side_by_side.png",
+    "Acads/UGP/assets/lat30band100/comparison_query_times.png",
+    "Acads/UGP/assets/lat30band100",
+    "Acads/UGP/assets",
+    "Acads/UGP/Experiments.md",
     "Projects/Project Ideas.md",
+    "Acads/UGP.md",
+    "Acads/UGP",
+    "Acads",
     "Projects/Details/Mobile Server.md",
     "Welcome.md",
     "home/pankajlaptop/Documents/Obsidian/personal/Projects/Details/Mobile.md",
@@ -221,11 +235,6 @@
     "home/pankajlaptop/Documents/Obsidian/personal/Projects",
     "home/pankajlaptop/Documents/Obsidian/personal",
     "home/pankajlaptop/Documents/Obsidian",
-    "home/pankajlaptop/Documents",
-    "home/pankajlaptop",
-    "home",
-    "Projects/Details/Mobile.md",
-    "Projects/Details",
-    "Projects"
+    "Projects/Details/Mobile.md"
   ]
 }
