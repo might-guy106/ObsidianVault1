@@ -24,10 +24,10 @@ i used default conditions for this experiment which are
 - bandwidth: 100mbit
 
 Average Query Time as we increase depth
-![[Acads/UGP/assets/lat30band100/comparison_query_times.png]]
+![](assets/lat30band100/comparison_query_times.png)
 
 Average Update Time as we increase depth
-![[Acads/UGP/assets/lat30band100/comparison_update_times.png]]
+![](Acads/UGP/assets/lat30band100/comparison_update_times.png)
 
 as You can see the numbers increased quite a lot from 1600ms (without network conditions) to 12000ms for a query on 20 depth tree. So next i tested varying the latency keeping 
 
@@ -35,10 +35,10 @@ as You can see the numbers increased quite a lot from 1600ms (without network co
 ### Varying latency keeping rest of the parameters constant
 
 Average Query Time as we increase Latency
-![[study_latency_bw100_query.png]]
+![](study_latency_bw100_query.png)
 
 Average Update Time as we increase Latency
-![[study_latency_bw100_update.png]]
+![](study_latency_bw100_update.png)
 
 I ran experiments for latencies = (5ms 10ms 15ms 20ms 25ms 30ms). 
 
