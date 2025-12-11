@@ -48,15 +48,15 @@ I feel the average time taken for update and query is very large when we manuall
 ### Varying Bandwidth keeping rest of the parameters constant
 
 Average Query Time as we increase bandwidth
-![[study_bandwidth_lat5_query.png]]
+![](study_bandwidth_lat5_query.png)
 
 Average Update Time as we increase bandwidth
-![[study_bandwidth_lat5_update.png]]
+![](study_bandwidth_lat5_update.png)
 
 ## Roadblocks and Doubts
 
 - the iitk server that we have does not access to outside internet (ping google.com does not work) we can only do ssh or scp currently . so i am not able to  run docker which needs internet to pull the base image and libraries.
-- in the prac paper it is ![[Pasted image 20251211105028.png]]
+- in the prac paper it is ![](pracText.png)
 but when i execute the run-experiment script, the logs showed 
 ```bash
 Usable cores: P0=12, P1=12, P2=12
