@@ -11,17 +11,10 @@
             "id": "94732cec6b15c32b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -1065.6366476096387,
-                  "y": 19.862795816577428,
-                  "zoom": -0.6417570993041245
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -199,7 +192,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "94732cec6b15c32b",
+  "active": "db72b89c3f31c73f",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Untitled.md",
