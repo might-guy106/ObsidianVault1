@@ -28,7 +28,6 @@
   "ITS@@hide-note-title": false,
   "ITS@@hide-note-title-icons": false,
   "ITS@@paper": false,
-  "ITS@@writing": false,
   "ITS@@default-statblock": false,
   "ITS@@breadcrumbs-block": false,
   "ITS@@metabind-auto": false,
@@ -42,5 +41,12 @@
   "ITS@@its-d": false,
   "ITS@@hide-titlebar": false,
   "ITS@@drwn": false,
-  "ITS@@t-d": false
+  "ITS@@t-d": false,
+  "ITS@@hide-header-underline": true,
+  "ITS@@header-border-line-height": 4,
+  "ITS@@hcl": false,
+  "ITS@@status-bar-padding": 4,
+  "ITS@@status-bar-gap": 4,
+  "ITS@@file-line-width": 1000,
+  "ITS@@writing": false
 }

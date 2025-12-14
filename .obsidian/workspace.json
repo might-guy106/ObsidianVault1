@@ -11,10 +11,14 @@
             "id": "94732cec6b15c32b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "IITK VPN For Arch linux.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "IITK VPN For Arch linux"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 310.5
   },
   "right": {
     "id": "6626e422e76a8a19",
@@ -192,7 +196,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "db72b89c3f31c73f",
+  "active": "94732cec6b15c32b",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Untitled.md",
