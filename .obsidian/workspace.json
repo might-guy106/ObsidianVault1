@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "070db27705d75151",
+        "id": "ba0bd944914c0b4c",
         "type": "tabs",
         "children": [
           {
-            "id": "146c73823f014f5e",
+            "id": "94732cec6b15c32b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Acads/UGP/Update.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -1065.6366476096387,
+                  "y": 19.862795816577428,
+                  "zoom": -0.6417570993041245
+                }
               },
-              "icon": "lucide-file",
-              "title": "Update"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -196,22 +199,30 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "146c73823f014f5e",
+  "active": "94732cec6b15c32b",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled.md",
+    "Projects/Details/Mobile Server.md",
+    "Excalidraw/Drawing 2025-12-14 13.30.39.excalidraw.md",
+    "IITK VPN For Arch linux.md",
+    "Excalidraw/Drawing 2025-12-14 09.23.33.excalidraw.md",
+    "Acads/UGP/SegmentTree10 RangeSum query implementation.md",
+    "Acads/UGP/Remarks in the paper.md",
+    "Welcome.md",
+    "Excalidraw",
+    "Acads/UGP/assets/section4.2.png",
+    "Acads/UGP/Update.md",
     "Acads/UGP/Experiments.md",
     "Acads/UGP/assets/pracText.png",
-    "Acads/UGP/Update.md",
     "Acads/UGP/assets/none/comparison_query_times.png",
     "Acads/UGP/assets/network_study/study_bandwidth_lat5_update.png",
     "Acads/UGP/assets/network_study/study_bandwidth_lat5_query.png",
     "Acads/UGP/assets/network_study/study_latency_bw100_update.png",
     "Acads/UGP/assets/network_study/study_latency_bw100_query.png",
     "Acads/UGP/assets/none/comparison_update_times.png",
-    "Projects/Details/Mobile Server.md",
     "Acads/UGP/assets/lat30band100/comparison_update_times.png",
     "comparison_query_times.png",
-    "Acads/UGP/assets/none/comparison_side_by_side.png",
-    "IITK VPN For Arch linux.md",
     "Acads/UGP/assets/none",
     "Acads/UGP/assets/network_study",
     "Acads/UGP/assets/lat30band100",
@@ -220,12 +231,10 @@
     "Acads/UGP.md",
     "Acads/UGP",
     "Acads",
-    "Welcome.md",
     "home/pankajlaptop/Documents/Obsidian/personal/Projects/Details/Mobile.md",
     "home/pankajlaptop/Documents/Obsidian/personal/Projects/Details",
     "home/pankajlaptop/Documents/Obsidian/personal/Projects",
     "home/pankajlaptop/Documents/Obsidian/personal",
-    "home/pankajlaptop/Documents/Obsidian",
     "Projects/Details/Mobile.md"
   ]
 }

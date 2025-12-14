@@ -5,6 +5,7 @@
   "showViewHeader": true,
   "showRibbon": false,
   "textFontFamily": "Nimbus Sans,CaskaydiaMono Nerd Font Mono,Inter",
-  "interfaceFontFamily": "CaskaydiaMono Nerd Font Mono",
-  "monospaceFontFamily": "CaskaydiaMono Nerd Font Mono"
+  "interfaceFontFamily": "Inter,CaskaydiaMono Nerd Font Mono",
+  "monospaceFontFamily": "CaskaydiaMono Nerd Font Mono",
+  "nativeMenus": false
 }

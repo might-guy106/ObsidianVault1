@@ -38,7 +38,7 @@
   "overrideObsidianFontSize": false,
   "dynamicStyling": "colorful",
   "isLeftHanded": false,
-  "desktopUIMode": "tray",
+  "desktopUIMode": "full",
   "tabletUIMode": "compact",
   "iframeMatchExcalidrawTheme": true,
   "matchTheme": false,
@@ -453,9 +453,9 @@
   "pdfDirection": "right",
   "pdfImportScale": 0.3,
   "gridSettings": {
-    "DYNAMIC_COLOR": true,
-    "COLOR": "#000000",
-    "OPACITY": 50,
+    "DYNAMIC_COLOR": false,
+    "COLOR": "#e30d0d",
+    "OPACITY": 100,
     "GRID_DIRECTION": {
       "horizontal": true,
       "vertical": true
@@ -811,5 +811,5 @@
     "alignment": "center",
     "margin": "normal"
   },
-  "disableContextMenu": false
+  "disableContextMenu": true
 }
