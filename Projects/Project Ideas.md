@@ -1,2 +1,3 @@
 - [[Mobile Server]]
-this
+- [[Auto birthday wishes and story posting]]
+- photos upload with compressed storage

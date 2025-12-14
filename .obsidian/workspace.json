@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IITK VPN For Arch linux.md",
+                "file": "Projects/Project Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IITK VPN For Arch linux"
+              "title": "Project Ideas"
             }
           }
         ]
@@ -198,11 +198,13 @@
   },
   "active": "94732cec6b15c32b",
   "lastOpenFiles": [
+    "Projects/Details/Auto birthday wishes and story posting.md",
+    "Projects/Project Ideas.md",
+    "IITK VPN For Arch linux.md",
     "Untitled.canvas",
     "Untitled.md",
     "Projects/Details/Mobile Server.md",
     "Excalidraw/Drawing 2025-12-14 13.30.39.excalidraw.md",
-    "IITK VPN For Arch linux.md",
     "Excalidraw/Drawing 2025-12-14 09.23.33.excalidraw.md",
     "Acads/UGP/SegmentTree10 RangeSum query implementation.md",
     "Acads/UGP/Remarks in the paper.md",
@@ -224,7 +226,6 @@
     "Acads/UGP/assets/network_study",
     "Acads/UGP/assets/lat30band100",
     "Acads/UGP/assets",
-    "Projects/Project Ideas.md",
     "Acads/UGP.md",
     "Acads/UGP",
     "Acads",
