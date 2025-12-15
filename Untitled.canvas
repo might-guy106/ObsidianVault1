@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"c4cc2631ae80939e","type":"text","text":"### Client A","x":-720,"y":-249,"width":142,"height":69,"color":"1"},
+		{"id":"854d9a3b5264ecbe","type":"text","text":"### Client B","x":-220,"y":-249,"width":142,"height":69,"color":"1"},
+		{"id":"b510306e56ff185e","type":"text","text":"- it has additive shares or *L2*\n- it needs shares of index of its siblings (which are furthen used to get values present in them using doram access)\n- We use simple vector *Sib[]* for Sibling array\n- we convert addtive or Xor shares of index to standard basis vector. *L2* to *vecL2* \n- we do dot product of *vecL2* with *Sib[]*  to get *p2*","x":-358,"y":-120,"width":418,"height":290},
+		{"id":"be07369cf962627d","type":"text","text":"- it has additive or Xor shares *L1*\n- it needs shares of index of its siblings (which are furthen used to get values present in them using doram access)\n- We use simple vector for Sibling array\n- we convert addtive or Xor shares of index to standard basis vector. *L1* to *vecL1* \n- we do dot product of *vecL1* with *Sib[]*  to get *p1*","x":-858,"y":-120,"width":418,"height":290},
+		{"id":"6b7818bdb33ae8e7","type":"text","text":"*p1* + *p2* is equal to sibling index of L (L1 + L2)\n\nSo p1 and p2 are additive shares","x":-578,"y":280,"width":398,"height":120}
+	],
+	"edges":[
+		{"id":"7034f383d82ed807","fromNode":"be07369cf962627d","fromSide":"bottom","toNode":"6b7818bdb33ae8e7","toSide":"top"},
+		{"id":"3f4da28fb54e2672","fromNode":"b510306e56ff185e","fromSide":"bottom","toNode":"6b7818bdb33ae8e7","toSide":"top"},
+		{"id":"9488c2d4f3b56d46","fromNode":"c4cc2631ae80939e","fromSide":"bottom","toNode":"be07369cf962627d","toSide":"top"},
+		{"id":"e53de26c6e1bba5c","fromNode":"854d9a3b5264ecbe","fromSide":"bottom","toNode":"b510306e56ff185e","toSide":"top"}
+	]
+}

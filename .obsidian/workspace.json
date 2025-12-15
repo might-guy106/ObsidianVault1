@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ba0bd944914c0b4c",
+        "id": "34a062389301a05e",
         "type": "tabs",
         "children": [
           {
-            "id": "94732cec6b15c32b",
+            "id": "7c9a970e848f570d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Projects/Project Ideas.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -224.83912066214523,
+                  "y": 112.47566266338751,
+                  "zoom": -0.14521323795851326
+                }
               },
-              "icon": "lucide-file",
-              "title": "Project Ideas"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -196,12 +199,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "94732cec6b15c32b",
+  "active": "7c9a970e848f570d",
   "lastOpenFiles": [
-    "Projects/Details/Auto birthday wishes and story posting.md",
-    "Projects/Project Ideas.md",
-    "IITK VPN For Arch linux.md",
+    "Excalidraw/Drawing 2025-12-15 11.17.20.excalidraw.md",
+    "Excalidraw/Drawing 2025-12-15 11.03.27.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
+    "Excalidraw/Scripts/Downloaded/Toggle Grid.md",
     "Untitled.canvas",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Acads/UGP/Next Steps.md",
+    "Acads/UGP/Update.md",
+    "IITK VPN For Arch linux.md",
+    "Projects/Project Ideas.md",
+    "Projects/Details/Auto birthday wishes and story posting.md",
     "Untitled.md",
     "Projects/Details/Mobile Server.md",
     "Excalidraw/Drawing 2025-12-14 13.30.39.excalidraw.md",
@@ -211,7 +222,6 @@
     "Welcome.md",
     "Excalidraw",
     "Acads/UGP/assets/section4.2.png",
-    "Acads/UGP/Update.md",
     "Acads/UGP/Experiments.md",
     "Acads/UGP/assets/pracText.png",
     "Acads/UGP/assets/none/comparison_query_times.png",
@@ -221,7 +231,6 @@
     "Acads/UGP/assets/network_study/study_latency_bw100_query.png",
     "Acads/UGP/assets/none/comparison_update_times.png",
     "Acads/UGP/assets/lat30band100/comparison_update_times.png",
-    "comparison_query_times.png",
     "Acads/UGP/assets/none",
     "Acads/UGP/assets/network_study",
     "Acads/UGP/assets/lat30band100",
@@ -231,8 +240,6 @@
     "Acads",
     "home/pankajlaptop/Documents/Obsidian/personal/Projects/Details/Mobile.md",
     "home/pankajlaptop/Documents/Obsidian/personal/Projects/Details",
-    "home/pankajlaptop/Documents/Obsidian/personal/Projects",
-    "home/pankajlaptop/Documents/Obsidian/personal",
     "Projects/Details/Mobile.md"
   ]
 }

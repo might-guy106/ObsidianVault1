@@ -453,7 +453,7 @@
   "pdfDirection": "right",
   "pdfImportScale": 0.3,
   "gridSettings": {
-    "DYNAMIC_COLOR": false,
+    "DYNAMIC_COLOR": true,
     "COLOR": "#e30d0d",
     "OPACITY": 100,
     "GRID_DIRECTION": {
