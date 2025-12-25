@@ -1,3 +1,6 @@
 - [[Mobile Server]]
 - [[Auto birthday wishes and story posting]]
+- [[Portfolio]]
 - photos upload with compressed storage
+- [[Video recording to Blog]]
+- 

@@ -1,0 +1,4 @@
+- took domain name from spaceship
+- want to build portfolio + blog so ssg is best option so hosting is done by github pages
+- used astro which is good for ssg and astropaper for template
+- configured github workflow and custom domain settings for the repo and domain dns to map vpankaj.com to mightguy106.github.io
