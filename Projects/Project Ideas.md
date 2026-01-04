@@ -3,5 +3,5 @@
 - [[Portfolio]]
 - photos upload with compressed storage
 - [[Video recording to Blog]]
-- extension to save webpages on obsidian notes
+- extension to save webpages on obsidian notes : no need obsidian web clipper works fine
 - cron job that runs to fix errors, restructure, suggest improvements to the obsidian content

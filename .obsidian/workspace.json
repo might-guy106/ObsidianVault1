@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "34a062389301a05e",
+        "id": "2bfe553afd1b8272",
         "type": "tabs",
         "children": [
           {
-            "id": "7c9a970e848f570d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Details/Portfolio.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Portfolio"
-            }
-          },
-          {
-            "id": "43689dab796ff9fb",
+            "id": "29717b21299bbcf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "Project Ideas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,33 +196,42 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "43689dab796ff9fb",
+  "active": "29717b21299bbcf8",
   "lastOpenFiles": [
-    "Projects/Video recording to Blog.md",
-    "Untitled 1.md",
+    "Clippings/Social media - Wikipedia.md",
+    "Clippings/My Journey of Setting Up Personal Portfolio  V Pankaj.md",
+    "Clippings/File identifiers  Obsidian Advanced URI.md",
+    "Clippings/Twitter - Wikipedia.md",
+    "Clippings/Man of Steel (2013) ⭐ 7.1 | Action, Adventure, Sci-Fi.md",
+    "Clippings/Thread by @the2ndfloorguy.md",
+    "Clippings/Obsidian Advanced URI  Obsidian Advanced URI.md",
+    "Clippings/Navigation | Obsidian Advanced URI.md",
+    "Clippings/Man of Steel (2013) ⭐ 7.1  Action, Adventure, Sci-Fi.md",
+    "Clippings/Marty Supreme (2025) ⭐ 8.3  Drama, Sport.md",
+    "Clippings/clipper-templatestemplatesimdb-clipper.json at main · kepanoclipper-templates.md",
+    "Clippings/Obsidian Web Clipper.md",
+    "Clippings/Sinners (2025) ⭐ 7.5  Action, Drama, Horror.md",
+    "Clippings/One Battle After Another (2025) ⭐ 7.8  Action, Crime, Drama.md",
     "Projects/Details/Portfolio.md",
-    "Untitled.md",
+    "References/One Battle After Another.md",
+    "References",
     "Welcome.md",
+    "Clippings",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Untitled.canvas",
     "Projects/Project Ideas.md",
+    "Projects/Video recording to Blog.md",
     "Projects/Details/Mobile Server.md",
     "Acads/UGP/SegmentTree10 RangeSum query implementation.md",
-    "Untitled.canvas",
     "Excalidraw/Drawing 2025-12-15 11.17.20.excalidraw.md",
     "Excalidraw/Drawing 2025-12-15 11.03.27.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
     "Excalidraw/Scripts/Downloaded/Toggle Grid.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Acads/UGP/Next Steps.md",
-    "Acads/UGP/Update.md",
-    "IITK VPN For Arch linux.md",
-    "Projects/Details/Auto birthday wishes and story posting.md",
-    "Excalidraw/Drawing 2025-12-14 13.30.39.excalidraw.md",
-    "Excalidraw/Drawing 2025-12-14 09.23.33.excalidraw.md",
-    "Acads/UGP/Remarks in the paper.md",
     "Excalidraw",
     "Acads/UGP/assets/section4.2.png",
-    "Acads/UGP/Experiments.md",
     "Acads/UGP/assets/pracText.png",
     "Acads/UGP/assets/none/comparison_query_times.png",
     "Acads/UGP/assets/network_study/study_bandwidth_lat5_update.png",
@@ -250,11 +244,6 @@
     "Acads/UGP/assets/network_study",
     "Acads/UGP/assets/lat30band100",
     "Acads/UGP/assets",
-    "Acads/UGP.md",
-    "Acads/UGP",
-    "Acads",
-    "home/pankajlaptop/Documents/Obsidian/personal/Projects/Details/Mobile.md",
-    "home/pankajlaptop/Documents/Obsidian/personal/Projects/Details",
-    "Projects/Details/Mobile.md"
+    "Acads/UGP"
   ]
 }
