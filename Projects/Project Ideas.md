@@ -3,4 +3,5 @@
 - [[Portfolio]]
 - photos upload with compressed storage
 - [[Video recording to Blog]]
-- 
+- extension to save webpages on obsidian notes
+- cron job that runs to fix errors, restructure, suggest improvements to the obsidian content
